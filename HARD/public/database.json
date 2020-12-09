@@ -1,0 +1,64 @@
+{
+    "employees":[
+        {
+            "name": "Michael Jackson",
+            "id": 1,
+            "salary": 100000000,
+            "department": "Performance"
+        },
+        {
+            "name": "Randy Jackson",
+            "id": 2,
+            "salary": 10000000,
+            "department": "Performance"
+        },
+        {
+            "name": "Tito Jackson",
+            "id": 3,
+            "salary": 10000000,
+            "department": "Performance"
+        },
+        {
+            "name": "Jermaine Jackson",
+            "id": 4,
+            "salary": 10000000,
+            "department": "Performace"
+        },
+        {
+            "name": "Marlon Jackson",
+            "id": 5,
+            "salary": 10000000,
+            "department": "Performance"
+        },
+        {
+            "name": "Jackie Jackson",
+            "id": 6,
+            "salary": 100000000,
+            "department": "Performance"
+        },
+        {
+            "name": "Joe Jackson",
+            "id": 7,
+            "salary": 20000000,
+            "department": "Team Managment"
+        },
+        {
+            "name":"Janet Jackson",
+            "id":8,
+            "salary": 100000000,
+            "department": "Performance"
+        },
+        {
+            "name": "Etta James",
+            "id": 9,
+            "salary": 1000000,
+            "department": "Performance"
+        },
+        {
+            "name": "Gordan Keith",
+            "id": 10,
+            "salary": 100000000,
+            "department": "Executive"
+        }
+    ]
+}
